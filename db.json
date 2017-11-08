@@ -1,0 +1,105 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "「数据会说谎」的真实例子有哪些？",
+      "url": "http://starcraft.com"
+    },
+    {
+      "id": 2,
+      "title": "怎样用 Excel 做数据分析？",
+      "url": "http://warcraft.com"
+    },
+    {
+      "id": 3,
+      "title": "数据的个数比数据维数还少的时候怎么做降维？",
+      "url": "http://overwatch.com"
+    },
+    {
+      "id": 4,
+      "title": "Android 手机和电脑之间共享数据、同步数据（不通过数据线连接）有什么好的解决方案？",
+      "url": "http://hearstone.com"
+    },
+    {
+      "id": 5,
+      "title": "如何看待华为荣耀 Magic智慧助手与腾讯微信的数据冲突？",
+      "url": "http://hearstone.com"
+    },
+    {
+      "id": 6,
+      "title": "如何评价微软在数据中心使用FPGA代替传统CPU的做法？",
+      "url": "http://hearstone.com"
+    }
+  ],
+  "getUser": {
+    "username": "xiaobai",
+    "password": "111111"
+  },
+  "regUser": [
+    {
+      "username": "xiaohong",
+      "password": "111111",
+      "email": "111@qq.com",
+      "id": 1
+    }
+  ],
+  "getTotalPrice": [
+    {
+      "id": 0,
+      "totalPrice": 520
+    }
+  ],
+  "getPayState":{
+    "id":23,
+    "payState":true
+  },
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "product": "数据统计",
+        "version": "高级版",
+        "period": "1年",
+        "buyNum": 2,
+        "date": "2016-10-10",
+        "amount": "500元"
+      },
+      {
+        "orderId": "yuj583",
+        "product": "流量分析",
+        "version": "户外版",
+        "period": "3个月",
+        "buyNum": 1,
+        "date": "2016-5-2",
+        "amount": "2200元"
+      },
+      {
+        "orderId": "pmd201",
+        "product": "广告发布",
+        "version": "商铺版",
+        "period": "3年",
+        "buyNum": 12,
+        "date": "2016-8-3",
+        "amount": "7890元"
+      },
+      {
+        "orderId": "asd342",
+        "product": "流量分析",
+        "version": "户外版",
+        "period": "3个月",
+        "buyNum": 1,
+        "date": "2016-5-2",
+        "amount": "2200元"
+      },
+      {
+        "orderId": "sae453",
+        "product": "广告发布",
+        "version": "商铺版",
+        "period": "3年",
+        "buyNum": 12,
+        "date": "2016-8-3",
+        "amount": "7890元"
+      }
+    ]
+  }
+}
