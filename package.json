@@ -1,7 +1,7 @@
 {
-  "name": "pro2",
+  "name": "digital-platform",
   "version": "1.0.0",
-  "description": "my test project",
+  "description": "数字产品电商平台Demo",
   "author": "Cris.Bai",
   "private": true,
   "scripts": {
